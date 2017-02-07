@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">udt</string>
+    <string name="card_name">Card name</string>
+    <string name="card_money">%d / %d</string>
+</resources>
